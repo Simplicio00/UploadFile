@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\soluc\\C#\\Estudos-ASP.NET\\Proj\\ProjImg\\ProjIMago\\ProjIMago.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\soluc\\C#\\UploadFile\\ProjIMago\\ProjIMago.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\soluc\\C#\\Estudos-ASP.NET\\Proj\\ProjImg\\ProjIMago\\ProjIMago.csproj": {
+    "C:\\Users\\Acer\\Desktop\\soluc\\C#\\UploadFile\\ProjIMago\\ProjIMago.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\soluc\\C#\\Estudos-ASP.NET\\Proj\\ProjImg\\ProjIMago\\ProjIMago.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\soluc\\C#\\UploadFile\\ProjIMago\\ProjIMago.csproj",
         "projectName": "ProjIMago",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\soluc\\C#\\Estudos-ASP.NET\\Proj\\ProjImg\\ProjIMago\\ProjIMago.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\soluc\\C#\\UploadFile\\ProjIMago\\ProjIMago.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\soluc\\C#\\Estudos-ASP.NET\\Proj\\ProjImg\\ProjIMago\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\soluc\\C#\\UploadFile\\ProjIMago\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -39,11 +39,6 @@ namespace ProjIMago.Services
 
 		public string Imago(IFormFile file, string savingFolder)
 		{
-				//if (savingFolder == null)
-				//{
-				//	savingFolder = Path.Combine("imgUpdated");
-				//}
-
 			var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), savingFolder);
 			if (file.Length > 0)
 			{
@@ -54,8 +49,6 @@ namespace ProjIMago.Services
 				{
 					file.CopyTo(stream);
 				}
-
-				//return savingFolder + "/" +filename;
 
 				return filename;
 			}
